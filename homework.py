@@ -205,8 +205,7 @@ try:
     total_sum = sum(range(1, 113, 3))
     print(total_sum)
 
-    # 11
-    import math
+    #11
 
     total_sum = sum(math.cos(math.radians(i)) for i in range(35, 112, 22))
     print(total_sum)
